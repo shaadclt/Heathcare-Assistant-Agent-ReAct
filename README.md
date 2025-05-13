@@ -56,7 +56,7 @@ Place your Medications and dosages.json file in the project directory.
 
   - `QueryEngineTool`: For retrieving medication data from local JSON.
 
-4. Agent: A `ReActAgent` coordinates tool usage with context-specific instructions.
+4. **Agent**: A `ReActAgent` coordinates tool usage with context-specific instructions.
 
 # 🧪 Example Query
 ```python
